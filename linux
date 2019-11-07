@@ -1,0 +1,14 @@
+echo "enter into if condition"
+a=10
+b=30
+c=30
+if [ $a -eq $b ]
+then
+echo "a is equal to b"
+elif [ $c -gt $a ]
+then
+echo "c is greater than b"
+else 
+echo "a is smaller than b and c"
+fi
+echo "end of if condition"
