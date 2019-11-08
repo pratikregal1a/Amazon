@@ -12,3 +12,4 @@ else
 echo "a is smaller than b and c"
 fi
 echo "end of if condition"
+echo
